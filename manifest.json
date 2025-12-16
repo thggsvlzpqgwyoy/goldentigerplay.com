@@ -1,0 +1,19 @@
+{
+    "name": "Golden Tiger Casino \u2013 Play & Win Online | Legit Access",
+    "short_name": "Golden Tiger Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Golden Tiger Casino and play instantly on Canada\u2019s trusted platform for real fun, slots, and bonuses | Secure Ontario access and fast registration today.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
